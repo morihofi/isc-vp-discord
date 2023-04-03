@@ -4,6 +4,9 @@ settings.json
 # IntelliJ user settings
 .idea/
 
+# Maven target folder
+target/
+
 # Compiled class file
 *.class
 
